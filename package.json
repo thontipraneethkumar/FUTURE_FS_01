@@ -1,0 +1,9 @@
+{
+  "name": "praneeth-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio site with a serverless backend for the contact form.",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
