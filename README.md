@@ -3,7 +3,7 @@
 A single-page, responsive portfolio site built with plain HTML, CSS, and JavaScript — no framework or build step required. Built for **Future Interns — Full Stack Web Development, Task 1**.
 
 🔗 **Live site:** _(https://future-fs-01-seven-iota.vercel.app/)_
-🔗 **Repo:** _add your GitHub repo URL here_
+🔗 **Repo:** _(https://github.com/thontipraneethkumar)_
 
 ## Sections
 
